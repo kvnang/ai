@@ -14,7 +14,7 @@
     ],
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
-    "moduleResolution": "node",
+    "moduleResolution": "Bundler",
     "rootDir": "./src",
     "outDir": "./build",
     "skipLibCheck": true,
