@@ -1,5 +1,12 @@
 # @ai-sdk/provider-utils
 
+## 3.0.0-canary.1
+
+### Patch Changes
+
+- 060370c: feat(provider-utils): add TestServerCall#requestCredentials
+- 63d791d: chore (utils): remove unused test helpers
+
 ## 3.0.0-canary.0
 
 ### Major Changes

@@ -1,5 +1,19 @@
 # ai
 
+## 5.0.0-canary.1
+
+### Minor Changes
+
+- b7eae2d: feat (core): Add finishReason field to NoObjectGeneratedError
+
+### Patch Changes
+
+- Updated dependencies [060370c]
+- Updated dependencies [63d791d]
+  - @ai-sdk/provider-utils@3.0.0-canary.1
+  - @ai-sdk/ui-utils@2.0.0-canary.1
+  - @ai-sdk/react@2.0.0-canary.1
+
 ## 5.0.0-canary.0
 
 ### Major Changes
